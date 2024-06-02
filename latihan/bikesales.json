@@ -1,0 +1,15 @@
+{
+    "years": ["2011", "2012", "2013", "2014", "2015", "2016"],
+    "orderQuantityByYear": [1382, 1562, 2915, 2383, 2896, 2509],
+    "revenueByYear": [122, 48, 125, 124, 204, 191],
+    "orderQuantityMale": 6474,
+    "orderQuantityFemale": 7173,
+    "orderQuantityBySeason": [36, 31, 19, 14],
+    "subCategories": ["Road Bikes", "Mountain Bikes", "Touring Bikes"],
+    "orderQuantityBySubCategory": [7978, 3788, 1881],
+    "revenueBySubCategory": [119, 111, 52],
+    "totalProfitBySubCategory": [1769940, 1308938, 504798],
+    "countries": ["United States", "United Kingdom", "Germany", "France", "Canada", "Australia"],
+    "orderQuantityByCountry": [4289, 1867, 1669, 1535, 640, 3647],
+    "revenueByCountry": [61, 15, 65, 130, 18, 84]
+}
